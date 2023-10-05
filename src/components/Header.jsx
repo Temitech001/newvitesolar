@@ -1,4 +1,4 @@
-// import react from 'react';
+import react from 'react';
 
 // import { data } from '../data/data';
 import { cards } from '../data/data';
@@ -27,7 +27,7 @@ const Header = () => {
           <p className="text-white shadow-md font-semibold mt-5">
             Solar Power because the best things in life end up being free
           </p>
-          <button className="bg-orange-500 font-semibold text-sm text-white mt-[50px] py-1 px-3  rounded">
+          <button className="bg-orange-500 font-semibold text-sm text-white mt-[50px] p-5  rounded">
             CONTACT US
           </button>
         </div>

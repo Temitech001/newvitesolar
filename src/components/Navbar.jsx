@@ -11,7 +11,7 @@ const Navbar = () => {
       <div className="text-3xl font-semibold ml-[90px]">SolarInc</div>
 
       {/* menu */}
-      <ul className="hidden md:flex font-semibold mr-[60px]">
+      <ul className="hidden md:flex font-semibold mr-[60px] gap-5">
         <li>
           <Link
             to="home"
